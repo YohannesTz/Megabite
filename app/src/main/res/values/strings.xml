@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Megabite</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about">About</string>
+
+    <!--Service names both in Amharic and English-->
+    <array name="services_eng">
+        <item>Daily Package</item>
+        <item>Weekly Package</item>
+        <item>Month Package</item>
+        <item>Night Package</item>
+        <item>Daily Voice Pakcage</item>
+        <item>Weekly Voice Pakcage</item>
+        <item>Monthly Voice Pakcage</item>
+        <item>Night Voice Pakcage</item>
+    </array>
+
+    <array name="services_amh">
+        <item>የቀን ጥቅል</item>
+        <item>የሳምንታዊ ጥቅል</item>
+        <item>የወርሃዊ ጥቅል</item>
+        <item>የሌሊት ጥቅል</item>
+        <item>የቀን ድምጽ ጥቅል</item>
+        <item>የሳምንታዊ ድምጽ ጥቅል</item>
+        <item>የወርሃዊ ድምጽ ጥቅል</item>
+        <item>የሌሊት ድምጽ ጥቅል</item>
+    </array>
+
+    <array name="daily_services">
+        <item>3Birr - 25MB</item>
+        <item>5Birr - 45MB</item>
+        <item>10Birr - 100MB</item>
+        <item>35Birr - 500MB</item>
+    </array>
+
+    <array name="weekly_service">
+        <item>80Birr - 1024MB(1GB)</item>
+        <item>50Birr - 500Mb</item>
+        <item>60Birr - 700Mb</item>
+    </array>
+
+    <array name="monthly_service">
+        <item>55Birr - 500MB</item>
+        <item>100Birr - 1GB</item>
+        <item>190Birr - 2GB</item>
+        <item>350Birr - 4GB</item>
+    </array>
+
+    <array name="night_service">
+        <item>3Birr - 50Mb</item>
+        <item>5Birr - 100Mb</item>
+        <item>7Birr - 160Mb</item>
+    </array>
+
+    <array name="night_vservice">
+        <item>3.99Birr - 30Min</item>
+        <item>4.99Birr - 60Min</item>
+        <item>6.99Birr - 120Min</item>
+        <item>9.99Birr - 420Min</item>
+    </array>
+
+    <array name="daily_vservice">
+        <item>15Birr - 46Min</item>
+        <item>20Birr - 65Min</item>
+        <item>30Birr - 100Min</item>
+    </array>
+
+    <array name="weekly_vservice">
+        <item>3Birr - 8Min</item>
+        <item>5Birr - 13Min</item>
+        <item>10Birr - 28Min</item>
+    </array>
+
+    <array name="monthly_vservice">
+        <item>40Birr - 100Min - 5Mb - 30SMS</item>
+        <item>68Birr - 160Min - 5Mb - 30SMS</item>
+        <item>100Birr - 280Min - 5Mb - 30SMS</item>
+        <item>140Birr - 415Min - 5Mb - 50SMS</item>
+        <item>150Birr - 450Min - 5Mb - 50SMS</item>
+        <item>200Birr - 600Min - 5Mb - 50SMS</item>
+        <item>250Birr - 750Min - 5Mb - 50SMS</item>
+        <item>270Birr - 830Min - 5Mb - 80SMS</item>
+        <item>300Birr - 930Min - 5Mb - 80SMS</item>
+        <item>350Birr - 1080Min - 50Mb - 80SMS</item>
+        <item>400Birr - 1230Min - 50Mb - 80SMS</item>
+        <item>450Birr - 1380Min - 50Mb - 80SMS</item>
+        <item>500Birr - 1545Min - 50Mb - 80SMS</item>
+        <item>540Birr - 1660Min - 50Mb - 100SMS</item>
+        <item>600Birr - 1845Min - 50Mb - 100SMS</item>
+        <item>1350Birr - 4150Min - 50Mb - 350SMS</item>
+    </array>
+
+</resources>
